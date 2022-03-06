@@ -26,14 +26,14 @@ public class BankAppMgmtApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		
 		
-//		userService.addUser(new User("ParasMgr", "paras", "ROLE_MGR", "psgmgr@gmail.com"));
-//		userService.addUser(new User("ParasClerk", "paras", "ROLE_CLERK", "psgclerk@gmail.com"));
+//		userService.addUser(new User("PawanMgr", "pawan", "ROLE_MGR", "pawangmgr@gmail.com"));
+//		userService.addUser(new User("PawanClerk", "pawan", "ROLE_CLERK", "pawanclerk@gmail.com"));
 //		
-//		accountService.addAccount(new Account( "ParasMgr", 3000.00, "987654321", 
-//				"Derawal Nagar Delhi", "psgmgr@gmail.com"));
+//		accountService.addAccount(new Account( "PawanMgr", 5000.00, "904654321", 
+//				"Rohini Delhi", "pawangmgr@gmail.com"));
 //		
-//		accountService.addAccount(new Account( "ParasClerk", 8000.00, "976452382", 
-//				"Derawal Nagar Delhi", "psgclerk@gmail.com"));
+//		accountService.addAccount(new Account( "PawanClerk", 1000.00, "956452382", 
+//				"Rohini Delhi", "pawanclerk@gmail.com"));
 
 		
 	}
